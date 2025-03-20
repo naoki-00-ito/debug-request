@@ -1,5 +1,5 @@
+import Form from '@/components/client/form';
+
 export default function Home() {
-  return (
-    <p>TODO: fetch request</p>
-  );
+  return <Form />;
 }
